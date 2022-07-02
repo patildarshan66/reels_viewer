@@ -1,3 +1,3 @@
-## 1.0.0 - 2020-07-22
+## 1.0.0 - 2022-07-02
 
 * Initial Open Source release.
