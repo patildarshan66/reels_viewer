@@ -15,6 +15,7 @@ dependencies:
   card_swiper: ^2.0.4
   cached_network_image: ^3.2.0
   intl: ^0.17.0
+  video_player: ^2.4.5
 
 dev_dependencies:
   flutter_test:
