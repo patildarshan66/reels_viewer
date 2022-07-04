@@ -1,4 +1,3 @@
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:reels_viewer/reels_viewer.dart';
 import 'package:reels_viewer/src/components/user_profile_image.dart';

@@ -105,6 +105,8 @@ class _MyHomePageState extends State<MyHomePage> {
         log('======> Current Index ======> $index <========');
       },
       showProgressIndicator: true,
+      showVerifiedTick: true,
+      showAppbar: true,
     );
   }
 }

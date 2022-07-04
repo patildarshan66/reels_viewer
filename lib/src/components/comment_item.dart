@@ -55,7 +55,7 @@ class CommentItem extends StatelessWidget {
                               ),
                               Text(
                                 commentItem.comment,
-                                style:  TextStyle(
+                                style:  const TextStyle(
                                   fontSize: 12,
                                   color: Color.fromARGB(255, 69, 67, 67),
                                 ),

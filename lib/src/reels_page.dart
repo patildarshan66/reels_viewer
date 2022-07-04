@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:reels_viewer/src/models/reel_model.dart';
 import 'package:reels_viewer/src/utils/url_checker.dart';
 import 'package:video_player/video_player.dart';
-
 import 'components/like_icon.dart';
 import 'components/screen_options.dart';
 
@@ -68,9 +67,7 @@ class _ReelsPageState extends State<ReelsPage> {
 
   @override
   void dispose() {
-    if (_videoPlayerController != null) {
-      _videoPlayerController.dispose();
-    }
+    _videoPlayerController.dispose();
     if (_chewieController != null) {
       _chewieController!.dispose();
     }
