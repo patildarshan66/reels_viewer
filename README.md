@@ -26,6 +26,7 @@ For help getting started with Flutter, view the online [documentation](https://f
 
 Initializing a List
 
+```dart
 List<ReelModel> reelsList = [
     ReelModel(
         'https://assets.mixkit.co/videos/preview/mixkit-tree-with-yellow-flowers-1173-large.mp4',
@@ -74,8 +75,11 @@ List<ReelModel> reelsList = [
     ),
 ];
 
+```
+
 Simple implementation
 
+```dart
 ReelsViewer(
     reelsList: reelsList,
     appbarTitle: 'Instagram Reels',
@@ -104,8 +108,9 @@ ReelsViewer(
     showVerifiedTick: false,
     showAppbar: false,
 );
+```
 
-## Controller Options
+## Options
 
 |          Name         |           Description               |   Default    |        Return        |
 | :-------------------: | :---------------------------------: | :----------: | :------------------: |
