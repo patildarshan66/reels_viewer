@@ -110,7 +110,7 @@ ReelsViewer(
 );
 ```
 
-## Controller Options
+## Options
 
 |          Name         |           Description               |   Default    |        Return        |
 | :-------------------: | :---------------------------------: | :----------: | :------------------: |
