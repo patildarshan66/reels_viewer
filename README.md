@@ -147,8 +147,10 @@ Screenshot 2
 
 Screenshot 3
 <p float="left"> 
-<img src="https://github.com/patildarshan66/reels_viewer/blob/master/screenshots/screenshot_3.jpg" width="150" height="250">
+<img src="https://i.stack.imgur.com/N80YNl.png" width="150" height="250">
 </p>  
 
-Demo video
-https://github.com/patildarshan66/reels_viewer/blob/master/screenshots/screenshot_video.mp4
+## Demo video
+
+[Click here](https://github.com/patildarshan66/reels_viewer/blob/master/screenshots/screenshot_video.mp4) for watch demo video.
+
