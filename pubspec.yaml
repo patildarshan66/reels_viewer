@@ -1,6 +1,6 @@
 name: reels_viewer
 description: This is a package created in the style of the instagram reels viewer, with which you can pass video url and get reels view.
-version: 1.0.0+1
+version: 1.0.0+3
 homepage: https://github.com/patildarshan66/reels_viewer
 
 environment:

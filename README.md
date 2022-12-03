@@ -137,20 +137,20 @@ initial view
 
 Screenshot 1
 <p float="left"> 
-<img src="https://github.com/patildarshan66/reels_viewer/blob/master/screenshots/screenshot_1.jpg" width="150" height="250">
+<img src="https://firebasestorage.googleapis.com/v0/b/reels-viwer.appspot.com/o/screenshot_1.jpg?alt=media&token=561dd4a2-c027-4fce-81bd-96b5429a28b3" width="150" height="250">
 </p>  
 
 Screenshot 2
 <p float="left"> 
-<img src="https://github.com/patildarshan66/reels_viewer/blob/master/screenshots/screenshot_2.jpg" width="150" height="250">
+<img src="https://firebasestorage.googleapis.com/v0/b/reels-viwer.appspot.com/o/screenshot_2.jpg?alt=media&token=afb589f0-0097-4666-acca-5f3b8675c3d9" width="150" height="250">
 </p>  
 
 Screenshot 3
 <p float="left"> 
-<img src="https://i.stack.imgur.com/N80YNl.png" width="150" height="250">
+<img src="https://firebasestorage.googleapis.com/v0/b/reels-viwer.appspot.com/o/screenshot_3.jpg?alt=media&token=8f6dc9d6-9974-44b7-be3a-41def27eb1ab" width="150" height="250">
 </p>  
 
 ## Demo video
 
-[Click here](https://github.com/patildarshan66/reels_viewer/blob/master/screenshots/screenshot_video.mp4) for watch demo video.
+[Click here](https://firebasestorage.googleapis.com/v0/b/reels-viwer.appspot.com/o/screenshot_video.mp4?alt=media&token=37c69d1b-1ec9-412d-8b4c-e42dbc99660f) for watch demo video.
 
