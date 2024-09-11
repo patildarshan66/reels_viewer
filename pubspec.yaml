@@ -1,6 +1,6 @@
 name: reels_viewer
 description: This is a package created in the style of the instagram reels viewer, with which you can pass video url and get reels view.
-version: 1.0.0+3
+version: 1.0.0+4
 homepage: https://github.com/patildarshan66/reels_viewer
 
 environment:
@@ -11,15 +11,15 @@ dependencies:
   flutter:
     sdk: flutter
   chewie: ^1.3.4
-  card_swiper: ^2.0.4
+  card_swiper: ^3.0.1
   cached_network_image: ^3.2.0
-  intl: ^0.17.0
+  intl: ^0.19.0
   video_player: ^2.4.5
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
+  flutter_lints: ^4.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
