@@ -65,16 +65,12 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ]),
     ReelModel(
-      'https://assets.mixkit.co/videos/preview/mixkit-father-and-his-little-daughter-eating-marshmallows-in-nature-39765-large.mp4',
+      'https://assets.mixkit.co/videos/preview/mixkit-mother-with-her-little-daughter-eating-a-marshmallow-in-nature-39764-large.mp4',
       'Rahul',
       musicName: 'In the name of Love',
       reelDescription: "Life is better when you're laughing.",
       profileUrl:
-          'https://opt.toiimg.com/recuperator/img/toi/m-69257289/69257289.jpg',
-    ),
-    ReelModel(
-      'https://assets.mixkit.co/videos/preview/mixkit-mother-with-her-little-daughter-eating-a-marshmallow-in-nature-39764-large.mp4',
-      'Rahul',
+      'https://opt.toiimg.com/recuperator/img/toi/m-69257289/69257289.jpg',
     ),
   ];
 

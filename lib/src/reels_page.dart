@@ -48,7 +48,7 @@ class _ReelsPageState extends State<ReelsPage> {
   }
 
   Future initializePlayer() async {
-    _videoPlayerController = VideoPlayerController.network(widget.item.url);
+    _videoPlayerController = VideoPlayerController. networkUrl(Uri.parse(widget.item.url));
     await Future.wait([_videoPlayerController.initialize()]);
     _chewieController = ChewieController(
       videoPlayerController: _videoPlayerController,
@@ -98,6 +98,13 @@ class _ReelsPageState extends State<ReelsPage> {
                           widget.onLike!(widget.item.url);
                         }
                         setState(() {});
+                      }
+                    },
+                    onTap: (){
+                      if(_videoPlayerController.value.isPlaying){
+                        _videoPlayerController.pause();
+                      }else{
+                        _videoPlayerController.play();
                       }
                     },
                     child: Chewie(

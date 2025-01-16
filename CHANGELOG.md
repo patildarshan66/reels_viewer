@@ -1,3 +1,10 @@
+## 2.0.0 - 2025-01-17
+
+* Updates dependencies.
+* Issue #7- version issue.. update intl
+* Enhancement #3- How to Play/Pause on Tap?
+* Upgraded example app
+
 ## 1.0.0+3 - 2022-12-03
 
 * Screenshots added in a README.md file
